@@ -1,0 +1,21 @@
+INSTALAR VEIL EVASION EN UBUNTU
+
+Video de Muestra
+https://www.youtube.com/watch?v=HLK3T9CGee4
+
+Paso 1: sudo apt-get -y install git
+
+Paso 2: git clone https://github.com/Veil-Framework/Veil.git
+
+Paso 3: cd Veil
+
+Paso 4: cd config
+
+Paso 5: ./setup.sh
+
+Despues de ejecutar este comando hay que instalar los programas de python, ruby que ya vienen dentro del ejecutable. 
+Luego de instalar todo y sin errores hay que ejecutar veil evaison.
+
+Paso 6: ./Veil.py
+
+De esta forma ya vamos a estar dentro de veil.
